@@ -5,10 +5,10 @@
 > 相关后端服务器 [Lost-Found-Hub](https://github.com/zouXH-god/Lost-Found-Hub)
 
 <p align="center">
-  <img src="./images/1.png" width="50%" />
-  <img src="./images/2.png" width="50%" />
-  <img src="./images/3.png" width="50%" />
-  <img src="./images/4.png" width="50%" />
+  <img src="./images/1.png" width="45%" />
+  <img src="./images/2.png" width="45%" />
+  <img src="./images/3.png" width="45%" />
+  <img src="./images/4.png" width="45%" />
 </p>
 
 ## ✨ 项目特色
